@@ -1,8 +1,5 @@
 # 포트폴리오 사이트 프로젝트
 
-## 완성작 보기 
-미리보기 : https://port2023-next.netlify.app/
-
 ## 사용 스택
 - next(https://nextjs.org/) 를 사용하여 사이트를 번들링하고 관리합니다.
 - gsap(https://greensock.com/gsap) 를 이용하여 패럴랙스 효과를 줍니다.
